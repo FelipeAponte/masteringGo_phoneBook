@@ -39,7 +39,7 @@ func main() {
 	}
 
 	data = append(data, Entry{"Mihalis", "Tsoukalos", "2109416471"})
-	data = append(data, Entry{"Mary", "Doe", "2109416871"})
+	data = append(data, Entry{"Mary", "Doef", "2109416871"})
 	data = append(data, Entry{"John", "Black", "2109416123"})
 
 	switch arguments[1] {
